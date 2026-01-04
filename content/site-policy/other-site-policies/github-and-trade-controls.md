@@ -12,7 +12,8 @@ versions:
 topics:
   - Policy
   - Legal
----
+--- 
+
 
 GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).
 
@@ -115,4 +116,4 @@ Pursuant to the license we have received from OFAC, we are restoring all cloud s
 ### Can you clarify availability of GitHub to Cuban developers?
 
 GitHub cloud services, both free and paid, are generally available to developers located in Cuba.  
-Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials may be restricted from accessing or using GitHub, wherever located. Additionally, users may not use GitHub.com for or on behalf of such parties, generally including the Governments of sanctioned countries.
+Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials may be restricted from accessing or using GitHub, wherever located. Additionally, users may not use GitHub.com for or on behalf of such parties, generally including the Governments of sanctioned .
